@@ -1,0 +1,11 @@
+run:
+    gradle run --warning-mode all
+
+test:
+    gradle test --warning-mode all
+
+tree:
+    tree -a
+
+clean-all:
+    trash --force "./.gradle/" "./build/" "./app/build/"
