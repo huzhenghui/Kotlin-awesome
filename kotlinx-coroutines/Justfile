@@ -8,4 +8,4 @@ tree:
     tree -a
 
 clean-all:
-    trash --force "./.gradle/" "./build/" "./.project" "./app/bin/" "./app/build/" "./app/.classpath" "./app/.project"
+    trash --force "./.gradle/" "./build/" "./.project" "./app/bin/" "./app/build/" "./app/.classpath" "./app/.project" "./app/build/"
