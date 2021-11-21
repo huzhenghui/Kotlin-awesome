@@ -1,0 +1,2 @@
+clean-all:
+    trash "./.gradle/"
