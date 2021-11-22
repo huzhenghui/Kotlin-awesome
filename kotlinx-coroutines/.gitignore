@@ -1,6 +1,8 @@
 /.gradle/
 /.settings/
 /.project
-/app/.settings/
-/app/.project
-/app/build/
+/kotlinx-coroutines-app/.settings/
+/kotlinx-coroutines-app/.classpath
+/kotlinx-coroutines-app/.project
+/kotlinx-coroutines-app/bin/
+/kotlinx-coroutines-app/build/

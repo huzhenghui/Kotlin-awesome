@@ -1,2 +1,2 @@
 rootProject.name = "kotlinx-coroutines"
-include("app")
+include("kotlinx-coroutines-app")
