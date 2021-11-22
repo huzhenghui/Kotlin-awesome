@@ -1,5 +1,5 @@
 /.gradle/
 /.settings/
 /.project
-/app/.settings/
-/app/.project
+/gradle-tasks-app/.settings/
+/gradle-tasks-app/.project

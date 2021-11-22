@@ -1,3 +1,3 @@
 rootProject.name = "gradle-tasks"
 
-include("app")
+include("gradle-tasks-app")
